@@ -1,0 +1,15 @@
+﻿@* @{
+    Layout = "_Layout";
+} *@
+@{
+    string action = ViewContext.RouteData.Values["action"]!.ToString()!;
+    switch (action)
+    {
+        case "Edit":
+            Layout = "_LayoutMember";
+            break;
+        default:
+            Layout = "_Layout";
+            break;
+    }
+}   

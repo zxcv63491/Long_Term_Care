@@ -1,0 +1,24 @@
+@import '_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css';
+
+/* _content/Long_Term_Care/Views/Home/CareTeam.cshtml.rz.scp.css */
+body[b-w9bxg3y7gf] {
+}
+
+#_cardteam[b-w9bxg3y7gf]{
+    background-color:#ddaba0
+}
+/* _content/Long_Term_Care/Views/Members/CertiFication.cshtml.rz.scp.css */
+.inputAccount2[b-4yuonx22pj]{
+    border:3px red solid;
+   z-index:1
+}
+.inputEmail2[b-4yuonx22pj] {
+    border: 3px red solid;
+    z-index: 1
+}
+/* _content/Long_Term_Care/Views/Members/LogIn.cshtml.rz.scp.css */
+#LoginImg[b-0x9qo08680] {
+    background-image: url(/css/LogIn/img/23671474.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
